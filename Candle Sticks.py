@@ -25,8 +25,6 @@ listofMins = []
 listofOpens = []
 listofCloses = []
 timeMH = []
-#def drawCandleSticks(max, min, open, close):
-
 
 for i in range(0, 2000):
 
